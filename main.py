@@ -16,7 +16,7 @@ Dependencies
     pip install qrcode[pil] pillow
 
 Usage
-    python wedding_qr.py \
+    python main.py \
         --url "https://photos.app.goo.gl/YOUR_GOOGLE_PHOTOS_LINK" \
         --output qr_wedding.png \
         --fg "#222222" --bg "#fff9f2" \
